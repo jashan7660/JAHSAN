@@ -1,7 +1,7 @@
 # JASHAN
 
 ## About me
-Hi! I am a **11 TH COMMERCE ** and i like to paly games 
+Hi! I am a **11 TH COMMERCE ** and i like to play football
 ## Skills
 -vs code
 - Git & GitHub
@@ -14,3 +14,4 @@ Hi! I am a **11 TH COMMERCE ** and i like to paly games
 - [x] Create GitHub repository
 - [x] Write README
 ## image
+  
